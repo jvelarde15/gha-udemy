@@ -5,5 +5,5 @@ jobs:
   hola-mundo:
     runs-on: ubuntu-latest
     steps:
-    - name: Hola mUNDO
+    - name: Hola mundo
       run: echo "hola mundo"
